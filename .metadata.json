@@ -1,5 +1,9 @@
 [
   {
+    "package": "optimLanduse",
+    "oncran": true
+  },
+  {
     "package": "woodValuationDE",
     "oncran": true
   }
