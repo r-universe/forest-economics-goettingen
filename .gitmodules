@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "optimLanduse"]
 	path = optimLanduse
 	url = https://github.com/forest-economics-goettingen/optimlanduse
-	shallow = true
-	registered = true
 [submodule "woodValuationDE"]
 	path = woodValuationDE
 	url = https://github.com/forest-economics-goettingen/woodvaluationde
-	shallow = true
-	registered = true
